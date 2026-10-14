@@ -1,0 +1,6 @@
+{
+  "name": "Avansi Electronics Store",
+  "description": "Avansi - Premium modern electronics and digital devices e-commerce storefront with weekly deals, smart gadgets, and trending accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
